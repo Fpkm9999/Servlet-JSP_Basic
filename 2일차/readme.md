@@ -947,3 +947,7 @@ ETC)이는 `new` 키워드를 사용하지 않고도 객체에 접근할 수 있
 <p align="center">
 <img src = "./images/30.png">
 </p>
+
+---
+참고
+- https://pathas.tistory.com/179
